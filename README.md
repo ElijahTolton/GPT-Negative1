@@ -1,4 +1,4 @@
-# TextGenerator Project - CS 2420 (Intro to Algorithms and Data Structures)  
+# GPT-Negative1 - CS 2420 (Intro to Algorithms and Data Structures)  
 **University of Utah**  
 **Final Comprehensive Project**
 
